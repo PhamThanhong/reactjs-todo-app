@@ -1,5 +1,5 @@
 # ✅ ReactJS Todo App
-
+---
 Một ứng dụng **Todo List** đơn giản được xây dựng bằng **ReactJS + Redux**.  
 Ứng dụng hỗ trợ thêm, xoá, đánh dấu hoàn thành công việc và đổi theme.
 ---
