@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhamThanhong/reactjs-todo-app.git/static/css/main.1a3093fd.css",
+    "main.js": "/PhamThanhong/reactjs-todo-app.git/static/js/main.8665e54b.js",
+    "index.html": "/PhamThanhong/reactjs-todo-app.git/index.html",
+    "main.1a3093fd.css.map": "/PhamThanhong/reactjs-todo-app.git/static/css/main.1a3093fd.css.map",
+    "main.8665e54b.js.map": "/PhamThanhong/reactjs-todo-app.git/static/js/main.8665e54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3093fd.css",
+    "static/js/main.8665e54b.js"
+  ]
+}
